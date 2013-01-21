@@ -10,7 +10,7 @@ public class Poker {
 	}
 	// Precondition: A hand of n cards have been sorted by card number.
 	/**
-	 * Checks if is three ofa kind.
+	 * Checks if is threee ofa kind.
 	 *
 	 * @param cards the cards
 	 * @param n the n
